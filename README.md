@@ -30,12 +30,12 @@
             │   ├── styles
             │   │   └── CSS resources
             │   ├── scripts
-            │   │     └── main.js
-            │   │     └── util.js          
-                      ├── bower_components            
-                          └── backbone
-                          └── bootstrap
-                          └── jquery            
+            │   │   └── main.js
+            │   │   └── util.js          
+                    └── bower_components            
+                        └── backbone
+                        └── bootstrap
+                        └── jquery            
         </code>
     </pre>
 </div>
